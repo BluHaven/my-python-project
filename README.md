@@ -28,7 +28,7 @@ Epic Games is the name of a video game and software developer and publisher know
 
 ## Important Links
 
-* [Final Report Notebook](https://git.generalassemb.ly/BluHaven/epic-game-sales/blob/master/report.ipynb)
-* [EDA Notebook](https://git.generalassemb.ly/BluHaven/epic-game-sales/blob/master/eda.ipynb)
+* [Final Report Notebook](https://github.com/BluHaven/my-python-project/blob/main/epic-game-sales-master/report.ipynb)
+* [EDA Notebook](https://github.com/BluHaven/my-python-project/blob/master/eda.ipynb)
 * [Link 1](https://www.kaggle.com/unanimad/epic-games-games-on-sale) - Kaggle where CSV is found.
 * [Link 2](https://www.epicgames.com/store/en-US/) - The Epic Games Store!
