@@ -1,4 +1,4 @@
-![GitHub Logo](https://git.generalassemb.ly/BluHaven/epic-game-sales/blob/master/assets/epic-games-decal.jpg)
+![GitHub Logo](https://github.com/BluHaven/my-python-project/blob/main/epic-game-sales-master/assets/epic-games-decal.jpg)
 
 
 
